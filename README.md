@@ -3,6 +3,9 @@
 Repositorio creado para el Curso de Visión Artificial en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez
 
 **Eduardo Carrasco Vidal**
+
+Link al desarrollo en Clases
+**[Ejemplo para tarea](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Script/MIA_ArtificialVision_(Clase_2).ipynb).**
  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
 ## Contiene los siguientes Script:
