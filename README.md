@@ -1,4 +1,4 @@
-# MIA_ArtificialVision <img src="img/logo.png" align="right" width = "95px"/>
+# MIA_ComputerVision <img src="img/logo.png" align="right" width = "95px"/>
  
 Repositorio creado para el Curso de Visión Artificial en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez
 
