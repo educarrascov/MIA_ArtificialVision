@@ -4,9 +4,13 @@ Repositorio creado para el Curso de Visión Artificial (_Computer Vision_) en el
 
 **Eduardo Carrasco Vidal**
 
+Prueba Final de Visión Artificial
+
+**[Link de Acceso al Notebook]**(https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Prueba_Vision_artificial.ipynb)
+
 Link al desarrollo en Clases:
 
-**[Ejemplo para tarea](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/MIA_ArtificialVision_(Clase_2).ipynb).**
+**[Ejemplo para tarea]**(https://github.com/educarrascov/MIA_ArtificialVision/blob/main/MIA_ArtificialVision_(Clase_2).ipynb)
  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
 ## Contiene los siguientes Script:
