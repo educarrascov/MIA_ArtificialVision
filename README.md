@@ -8,12 +8,14 @@ Repositorio creado para el Curso de Visión Artificial (_Computer Vision_) en el
 
 **[Link de Acceso al Notebook]**(https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Prueba_Vision_artificial.ipynb)
 
-Link al desarrollo en Clases:
 
-**[Ejemplo para tarea]**(https://github.com/educarrascov/MIA_ArtificialVision/blob/main/MIA_ArtificialVision_(Clase_2).ipynb)
  
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
 ## Contiene los siguientes Script:
+
+Link al desarrollo en Clases:
+
+**[Ejemplo para tarea]**(https://github.com/educarrascov/MIA_ArtificialVision/blob/main/MIA_ArtificialVision_(Clase_2).ipynb)
 
 1. [Script Lectura]().
 2. [Script bgr a brg]().
