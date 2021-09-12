@@ -4,9 +4,7 @@ Repositorio creado para el Curso de Visión Artificial (_Computer Vision_) en el
 
 **Eduardo Carrasco Vidal**
 
-**Prueba Final de Visión Artificial**
-
-[Link de Acceso al Notebook](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Prueba_Vision_artificial.ipynb)
+[Link de Acceso al Notebook](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Prueba_Vision_artificial.ipynb), de la **prueba final de Visión Artificial**.
 
 
  
