@@ -1,6 +1,8 @@
 # MIA_ArtificialVision <img src="img/logo.png" align="right" width = "95px"/>
  
-Repositorio creado para el Curso de Visión Artificial (_Artificial Vision_) en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez
+Repositorio creado para el Curso de Visión Artificial (_Artificial Vision_) en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez.
+
+Profesor: Miguel Carrasco.
 
 **Eduardo Carrasco Vidal**
 
