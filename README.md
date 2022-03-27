@@ -9,12 +9,13 @@ Profesor: Miguel Carrasco.
 Link al _desarrollo de la tarea_:
 [Tarea final](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Prueba_Vision_artificial.ipynb)
 
+[Ejemplo de Tarea](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/MIA_ArtificialVision_(Clase_2).ipynb)
+
+
 ![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
 ## Contiene los siguientes Script:
 
 Link al desarrollo en Clases:
-
-[Ejemplo para tarea](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/MIA_ArtificialVision_(Clase_2).ipynb)
 
 
 1. [Script Lectura](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Script/01_lectura.py).
