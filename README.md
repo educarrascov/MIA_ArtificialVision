@@ -13,7 +13,7 @@ Profesor: Miguel Carrasco.
 
 Link al _desarrollo de la tarea_:
 
-A. [Notebook en Python](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Prueba_Vision_artificial.ipynb)
+A. [Notebook en Github](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Prueba_Vision_artificial.ipynb)
 
 B. <a href="https://colab.research.google.com/github/educarrascov/MIA_ArtificialVision/blob/main/MIA_ArtificialVision_(Clase_2).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
