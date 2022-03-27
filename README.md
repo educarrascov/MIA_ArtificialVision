@@ -12,7 +12,10 @@ Profesor: Miguel Carrasco.
 ## Trabajo de Término del Curso:
 
 Link al _desarrollo de la tarea_:
-[Tarea final](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Prueba_Vision_artificial.ipynb)
+
+A. [Notebook en Python](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Prueba_Vision_artificial.ipynb)
+
+B. <a href="https://colab.research.google.com/github/educarrascov/MIA_ArtificialVision/blob/main/MIA_ArtificialVision_(Clase_2).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Link al desarrollo de la tarea en Clases:
 [Ejemplo de Tarea](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/MIA_ArtificialVision_(Clase_2).ipynb)
