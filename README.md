@@ -6,15 +6,19 @@ Profesor: Miguel Carrasco.
 
 **Eduardo Carrasco Vidal**
 
+
+![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
+
+## Trabajo de Término del Curso:
+
 Link al _desarrollo de la tarea_:
 [Tarea final](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Prueba_Vision_artificial.ipynb)
 
-Link al desarrollo en Clases:
+Link al desarrollo de la tarea en Clases:
 [Ejemplo de Tarea](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/MIA_ArtificialVision_(Clase_2).ipynb)
 
 
-![Python](https://img.shields.io/badge/python-%2314354C.svg)![GitHub](https://img.shields.io/badge/github-%23121011.svg)
-## Contiene los siguientes Script:
+## Este repositorio contiene los siguientes Script:
 
 
 1. [Script Lectura](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Script/01_lectura.py).
@@ -65,6 +69,6 @@ Link al desarrollo en Clases:
 46. [Puntos de Intersección](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Script/46_puntos_interseccion.py).
 47. [Template Matching](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Script/47_template_matching.py).
 
-## Otros Script:
+## En forma adicional, se presentan los siguientes Script:
 1. [Ejemplo Cadena Cinemática](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Script/2.2.%20ejemploCadenaCinematica.py).
 2. [Mapa de la tarea](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/Script/2.3.%20mapaTarea.py).
