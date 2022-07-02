@@ -2,7 +2,7 @@
  
 Repositorio creado para el **Curso de Visión Artificial (_Computer Vision_)** en el programa de Magister en Inteligencia Artificial de la Universidad Adolfo Ibáñez.
 
-Profesor: Miguel Carrasco.
+Profesor: Miguel Carrasco. Facultad de Ingeniería y Ciencias, UAI.
 
 **Eduardo Carrasco Vidal**
 
