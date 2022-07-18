@@ -18,7 +18,7 @@ A. [Notebook en Github](https://github.com/educarrascov/MIA_ArtificialVision/blo
 B. <a href="https://colab.research.google.com/github/educarrascov/MIA_ArtificialVision/blob/main/MIA_ArtificialVision_(Clase_2).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Link al desarrollo de la tarea en Clases:
-[Ejemplo de Tarea](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/MIA_ArtificialVision_(Clase_2).ipynb)
+[Ejemplo de Tarea](https://github.com/educarrascov/MIA_ArtificialVision/blob/main/DIA_2021_clase.ipynb)
 
 
 ## Este repositorio contiene los siguientes Script:
